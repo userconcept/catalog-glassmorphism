@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- HEAD - Start -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="theme-color" content="#8060e5">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="description" content="Planets.">
+    <meta name="keywords" content="planets">
+    <title>Planets - Planets page</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" type="text/css" href="css/main.min.css">
+</head>
+<!-- HEAD - End -->
+<!-- BODY - Start -->
+<body class="body_planets_animate">
+    <!-- SVG SYMBOLS - Start -->
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="border: 0 !important; clip: rect(0 0 0 0) !important; height: 1px !important; margin: -1px !important; overflow: hidden !important; padding: 0 !important; position: absolute !important; width: 1px !important;">
+        <defs>
+            <!-- CLIP PATH SMALL - Start -->
+            <clipPath id="header-clip-path-small" clipPathUnits="objectBoundingBox">
+                <path d="M0 0 h1 v1 q0 -.28571428571 -.08888888888 -.28571428571 h-.82222222222 q-.08888888888 0 -.08888888888 -.28571428571z" />
+            </clipPath>
+            <clipPath id="header-clip-path-reverse-small" clipPathUnits="objectBoundingBox">
+                <path d="M0 0 v1 h1 q0 -.28571428571 -.08888888888 -.28571428571 h-.82222222222 q-.08888888888 0 -.08888888888 -.28571428571z" />
+            </clipPath>
+            <clipPath id="footer-clip-path-small" clipPathUnits="objectBoundingBox">
+                <path d="M0 0 q0 .28571428571 .08888888888 .28571428571 h.82222222222 q.08888888888 0 .08888888888 .28571428571 v1 h-1z" />
+            </clipPath>
+            <clipPath id="footer-clip-path-reverse-small" clipPathUnits="objectBoundingBox">
+                <path d="M1 1 v-1 h-1 q0 .28571428571 .08888888888 .28571428571 h.82222222222 q.08888888888 0 .08888888888 .28571428571 z" />
+            </clipPath>
+            <!-- CLIP PATH SMALL - End -->
+            <!-- CLIP PATH MIDDLE - Start -->
+            <clipPath id="header-clip-path-middle" clipPathUnits="objectBoundingBox">
+                <path d="M0 0 h1 v1 q0 -.28571428571 -.05333333333 -.28571428571 h-.89333333333 q-.05333333333 0 -.05333333333 -.28571428571z" />
+            </clipPath>
+            <clipPath id="header-clip-path-reverse-middle" clipPathUnits="objectBoundingBox">
+                <path d="M0 0 v1 h1 q0 -.28571428571 -.05333333333 -.28571428571 h-.89333333333 q-.05333333333 0 -.05333333333 -.28571428571z" />
+            </clipPath>
+            <clipPath id="footer-clip-path-middle" clipPathUnits="objectBoundingBox">
+                <path d="M0 0 q0 .28571428571 .05333333333 .28571428571 h.89333333333 q.05333333333 0 .05333333333 .28571428571 v1 h-1z" />
+            </clipPath>
+            <clipPath id="footer-clip-path-reverse-middle" clipPathUnits="objectBoundingBox">
+                <path d="M1 1 v-1 h-1 q0 .28571428571 .05333333333 .28571428571 h.89333333333 q.05333333333 0 .05333333333 .28571428571 z" />
+            </clipPath>
+            <!-- CLIP PATH MIDDLE - End -->
+            <!-- CLIP PATH LARGE - Start -->
+            <clipPath id="header-clip-path-large" clipPathUnits="objectBoundingBox">
+                <path d="M0 0 h1 v1 q0 -.25806451612 -.02666666666 -.25806451612 h-.94666666666 q-.02666666666 0 -.02666666666 -.25806451612z" />
+            </clipPath>
+            <clipPath id="header-clip-path-reverse-large" clipPathUnits="objectBoundingBox">
+                <path d="M0 0 v1 h1 q0 -.25806451612 -.02666666666 -.25806451612 h-.94666666666 q-.02666666666 0 -.02666666666 -.25806451612z" />
+            </clipPath>
+            <clipPath id="footer-clip-path-large" clipPathUnits="objectBoundingBox">
+                <path d="M0 0 q0 .25806451612 .02666666666 .25806451612 h.94666666666 q.02666666666 0 .02666666666 .25806451612 v1 h-1z" />
+            </clipPath>
+            <clipPath id="footer-clip-path-reverse-large" clipPathUnits="objectBoundingBox">
+                <path d="M1 1 v-1 h-1 q0 .25806451612 .02666666666 .25806451612 h.94666666666 q.02666666666 0 .02666666666 .25806451612 z" />
+            </clipPath>
+            <!-- CLIP PATH LARGE - End -->
+            <!-- GRADIENTS - Start -->
+            <linearGradient id="gradient-logo" y1="100%">
+                <stop offset="0%" stop-color="#ff0066" />
+                <stop offset="100%" stop-color="#ffffff" />
+            </linearGradient>
+            <!-- GRADIENTS - End -->
+        </defs>
+        <symbol viewBox="0 0 24 24" id="icon_email">
+            <path d="M22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6zm-2 0l-8 5-8-5h16zm0 12H4V8l8 5 8-5v10z" />
+        </symbol>
+        <symbol viewBox="0 0 24 24" id="icon_logo">
+            <path d="M0 0h24v24H0z" />
+        </symbol>
+        <symbol viewBox="0 0 24 24" id="icon_message">
+            <path d="M4 4h16v12H5.17L4 17.17V4m0-2c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2H4zm2 10h8v2H6v-2zm0-3h12v2H6V9zm0-3h12v2H6V6z" />
+        </symbol>
+        <symbol viewBox="0 0 24 24" id="icon_phone">
+            <path d="M6.54 5c.06.89.21 1.76.45 2.59l-1.2 1.2c-.41-1.2-.67-2.47-.76-3.79h1.51m9.86 12.02c.85.24 1.72.39 2.6.45v1.49c-1.32-.09-2.59-.35-3.8-.75l1.2-1.19M7.5 3H4c-.55 0-1 .45-1 1 0 9.39 7.61 17 17 17 .55 0 1-.45 1-1v-3.49c0-.55-.45-1-1-1-1.24 0-2.45-.2-3.57-.57a.84.84 0 00-.31-.05c-.26 0-.51.1-.71.29l-2.2 2.2a15.149 15.149 0 01-6.59-6.59l2.2-2.2c.28-.28.36-.67.25-1.02A11.36 11.36 0 018.5 4c0-.55-.45-1-1-1z" />
+        </symbol>
+    </svg>
+    <!-- SVG SYMBOLS - End -->
+    <!-- PAGE WRAPPER - Start -->
+    <div class="page-wrapper">
+        <!-- HEADER - Start -->
+        <header class="header">
+            <div class="shadow header__shadow"></div>
+            <a class="logo header__logo" href="#">
+                <svg class="icon icon_logo logo__icon" width="24" height="24">
+                    <use xlink:href="#icon_logo"></use>
+                </svg>
+                <span class="logo__text">User</span>
+                <span class="logo__text">Concept</span>
+            </a>
+            <nav class="nav header__nav">
+                <ul class="nav-list nav__nav-list">
+                    <li class="nav-list__item">
+                        <a class="nav-list__link" href="#">Main</a>
+                    </li>
+                    <li class="nav-list__item">
+                        <a class="nav-list__link" href="#">About</a>
+                    </li>
+                    <li class="nav-list__item">
+                        <a class="nav-list__link" href="#">Planets</a>
+                    </li>
+                    <li class="nav-list__item">
+                        <a class="nav-list__link" href="#">Contact</a>
+                    </li>
+                </ul>
+            </nav>
+            <div class="header-right header__header-right">
+                <a class="contact-link header-right__contact-link" href="mailto:userconcept@yandex.ru">
+                    <svg class="icon icon_email contact-link__icon" width="24" height="24">
+                        <use xlink:href="#icon_email"></use>
+                    </svg>
+                    <span class="contact-link__text">userconcept@yandex.ru</span>
+                </a>
+                <a class="contact-link header-right__contact-link" href="tel:+79299769998">
+                    <svg class="icon icon_phone contact-link__icon" width="24" height="24">
+                        <use xlink:href="#icon_phone"></use>
+                    </svg>
+                    <span class="contact-link__text">+7 (929) 976-99-98</span>
+                </a>
+                <a class="button-square header-right__button-square" href="#">
+                    <svg class="icon icon_message button-square__icon" width="24" height="24">
+                        <use xlink:href="#icon_message"></use>
+                    </svg>
+                    Feedback
+                </a>
+            </div>
+            <button class="button-nav header__button-nav">
+                <span class="button-nav__hamburger">Navigation open</span>
+            </button>
+        </header>
+        <!-- HEADER - End -->
+        <!-- MAIN - Start -->
+        <main class="main">
+            <!-- SERVICES - Start -->
+            <section class="services">
+                <h1 class="title title_middle services__title">Planets</h1>
+                <button class="button-nav services__button-nav">
+                    <span class="button-nav__hamburger">Planets filter open</span>
+                </button>
+                <aside class="sidebar services__sidebar">
+                    <div class="sidebar__body">
+                        <h2 class="title title_middle sidebar__title">Filter</h2>
+                    </div>
+                </aside>
+                <ul class="services-list services__services-list"></ul>
+            </section>
+            <!-- SERVICES - End -->
+        </main>
+        <!-- MAIN - End -->
+        <div class="empty"></div>
+    </div>
+    <!-- PAGE WRAPPER - End -->
+    <!-- FOOTER - Start -->
+    <footer class="footer">
+        <div class="shadow footer__shadow"></div>
+        <a class="logo footer__logo" href="/">
+            <svg class="icon icon_logo logo__icon" width="24" height="24">
+                <use xlink:href="#icon_logo"></use>
+            </svg>
+            <span class="logo__text">User</span>
+            <span class="logo__text">Concept</span>
+        </a>
+        <div class="footer-right footer__footer-right">
+            <a class="contact-link footer-right__contact-link" href="mailto:userconcept@yandex.ru">
+                <svg class="icon icon_email contact-link__icon" width="24" height="24">
+                    <use xlink:href="#icon_email"></use>
+                </svg>
+                <span class="contact-link__text">userconcept@yandex.ru</span>
+            </a>
+            <a class="contact-link footer-right__contact-link" href="tel:+79299769998">
+                <svg class="icon icon_phone contact-link__icon" width="24" height="24">
+                    <use xlink:href="#icon_phone"></use>
+                </svg>
+                <span class="contact-link__text">+7 (929) 976-99-98</span>
+            </a>
+            <a class="button-square footer-right__button-square" href="#">
+                <svg class="icon icon_message button-square__icon" width="24" height="24">
+                    <use xlink:href="#icon_message"></use>
+                </svg>
+                Feedback
+            </a>
+        </div>
+    </footer>
+    <!-- FOOTER - End -->
+    <!-- MODAL WRAPPER - Start -->
+    <div class="modal-wrapper">
+        <div class="modal modal-wrapper__modal" id="m-service">
+            <button class="button-close modal__button-close">Modal close</button>
+            <div class="modal-right modal__modal-right">
+                <h2 class="title title_middle modal-right__title">Mercury</h2>
+                <p class="text modal-right__text">The smallest and fastest planet, it zips around the Sun in only 88 Earth days.</p>
+            </div>
+            <div class="modal-left modal__modal-left">
+                <picture class="picture modal-left__picture">
+                    <source type="image/webp" srcset="img/content/modal-left/modal-left__img_001_640.webp 640w, img/content/modal-left/modal-left__img_001_1280.webp 1280w, img/content/modal-left/modal-left__img_001_1920.webp 1920w" sizes="(min-width: 1200px) 47.875vw, 100vw">
+                    <img class="picture__img" srcset="img/content/modal-left/modal-left__img_001_640.jpg 640w, img/content/modal-left/modal-left__img_001_1280.jpg 1280w, img/content/modal-left/modal-left__img_001_1920.jpg 1920w" sizes="(min-width: 1200px) 47.875vw, 100vw" src="img/content/modal-left/modal-left__img_001_1920.jpg" alt="Mercury 001">
+                </picture>
+                <picture class="picture modal-left__picture">
+                    <source type="image/webp" srcset="img/content/modal-left/modal-left__img_002_640.webp 640w, img/content/modal-left/modal-left__img_002_1280.webp 1280w, img/content/modal-left/modal-left__img_002_1920.webp 1920w" sizes="(min-width: 1200px) 47.875vw, 100vw">
+                    <img class="picture__img" srcset="img/content/modal-left/modal-left__img_002_640.jpg 640w, img/content/modal-left/modal-left__img_002_1280.jpg 1280w, img/content/modal-left/modal-left__img_002_1920.jpg 1920w" sizes="(min-width: 1200px) 47.875vw, 100vw" src="img/content/modal-left/modal-left__img_002_1920.jpg" alt="Mercury 002">
+                </picture>
+                <picture class="picture modal-left__picture">
+                    <source type="image/webp" srcset="img/content/modal-left/modal-left__img_003_640.webp 640w, img/content/modal-left/modal-left__img_003_1280.webp 1280w, img/content/modal-left/modal-left__img_003_1920.webp 1920w" sizes="(min-width: 1200px) 47.875vw, 100vw">
+                    <img class="picture__img" srcset="img/content/modal-left/modal-left__img_003_640.jpg 640w, img/content/modal-left/modal-left__img_003_1280.jpg 1280w, img/content/modal-left/modal-left__img_003_1920.jpg 1920w" sizes="(min-width: 1200px) 47.875vw, 100vw" src="img/content/modal-left/modal-left__img_003_1920.jpg" alt="Mercury 003">
+                </picture>
+            </div>
+        </div>
+    </div>
+    <!-- MODAL WRAPPER - End -->
+    <!-- TEMPLATE - Start -->
+    <template id="t-services-item">
+        <li class="services-item services-list__services-item">
+            <a class="services-item__link" href="#"></a>
+            <div class="services-item__inner">
+                <h2 class="title title_small services-item__title"></h2>
+                <p class="text services-item__text"></p>
+            </div>
+        </li>
+    </template>
+    <!-- TEMPLATE - End -->
+    <script src="js/main.min.js"></script>
+</body>
+<!-- BODY - End -->
+</html>

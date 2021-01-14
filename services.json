@@ -1,0 +1,326 @@
+[
+    {
+        "title": "Mercury",
+        "picture": {
+            "source": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_001_640.webp",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_001_1280.webp",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_001_1920.webp",
+                    "descr": "1920w"
+                }
+            },
+            "img": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_001_640.jpg",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_001_1280.jpg",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_001_1920.jpg",
+                    "descr": "1920w"
+                }
+            },
+            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "alt": "Mercury"
+        },
+        "text": "The smallest and fastest planet, it zips around the Sun in only 88 Earth days."
+    },
+    {
+        "title": "Venus",
+        "picture": {
+            "source": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_002_640.webp",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_002_1280.webp",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_002_1920.webp",
+                    "descr": "1920w"
+                }
+            },
+            "img": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_002_640.jpg",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_002_1280.jpg",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_002_1920.jpg",
+                    "descr": "1920w"
+                }
+            },
+            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "alt": "Venus"
+        },
+        "text": "Venus’ thick atmosphere makes it the hottest planet in our solar system."
+    },
+    {
+        "title": "Earth",
+        "picture": {
+            "source": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_003_640.webp",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_003_1280.webp",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_003_1920.webp",
+                    "descr": "1920w"
+                }
+            },
+            "img": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_003_640.jpg",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_003_1280.jpg",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_003_1920.jpg",
+                    "descr": "1920w"
+                }
+            },
+            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "alt": "Earth"
+        },
+        "text": "The only planet in our solar system with liquid water on the surface."
+    },
+    {
+        "title": "Mars",
+        "picture": {
+            "source": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_004_640.webp",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_004_1280.webp",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_004_1920.webp",
+                    "descr": "1920w"
+                }
+            },
+            "img": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_004_640.jpg",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_004_1280.jpg",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_004_1920.jpg",
+                    "descr": "1920w"
+                }
+            },
+            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "alt": "Mars"
+        },
+        "text": "Mars was a wet and warm planet billions of years ago."
+    },
+    {
+        "title": "Jupiter",
+        "picture": {
+            "source": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_005_640.webp",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_005_1280.webp",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_005_1920.webp",
+                    "descr": "1920w"
+                }
+            },
+            "img": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_005_640.jpg",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_005_1280.jpg",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_005_1920.jpg",
+                    "descr": "1920w"
+                }
+            },
+            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "alt": "Jupiter"
+        },
+        "text": "The largest planet, its dark red spot is a storm larger than Earth."
+    },
+    {
+        "title": "Saturn",
+        "picture": {
+            "source": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_006_640.webp",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_006_1280.webp",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_006_1920.webp",
+                    "descr": "1920w"
+                }
+            },
+            "img": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_006_640.jpg",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_006_1280.jpg",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_006_1920.jpg",
+                    "descr": "1920w"
+                }
+            },
+            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "alt": "Saturn"
+        },
+        "text": "Saturn has the brightest, most massive and most complex ring system of any planet."
+    },
+    {
+        "title": "Uranus",
+        "picture": {
+            "source": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_007_640.webp",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_007_1280.webp",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_007_1920.webp",
+                    "descr": "1920w"
+                }
+            },
+            "img": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_007_640.jpg",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_007_1280.jpg",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_007_1920.jpg",
+                    "descr": "1920w"
+                }
+            },
+            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "alt": "Uranus"
+        },
+        "text": "Uranus is tipped on its axis by almost 90-degrees."
+    },
+    {
+        "title": "Neptune",
+        "picture": {
+            "source": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_008_640.webp",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_008_1280.webp",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_008_1920.webp",
+                    "descr": "1920w"
+                }
+            },
+            "img": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_008_640.jpg",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_008_1280.jpg",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_008_1920.jpg",
+                    "descr": "1920w"
+                }
+            },
+            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "alt": "Neptune"
+        },
+        "text": "Neptune was the first planet discovered through mathematical calculations, rather than observation."
+    },
+    {
+        "title": "Planet Name",
+        "picture": {
+            "source": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_009_640.webp",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_009_1280.webp",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_009_1920.webp",
+                    "descr": "1920w"
+                }
+            },
+            "img": {
+                "small": {
+                    "src": "img/content/services-item/services-item__img_009_640.jpg",
+                    "descr": "640w"
+                },
+                "middle": {
+                    "src": "img/content/services-item/services-item__img_009_1280.jpg",
+                    "descr": "1280w"
+                },
+                "large": {
+                    "src": "img/content/services-item/services-item__img_009_1920.jpg",
+                    "descr": "1920w"
+                }
+            },
+            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "alt": "Planet Name"
+        },
+        "text": "The most recent definition of a planet was adopted by the International Astronomical Union in 2006."
+    }
+]
