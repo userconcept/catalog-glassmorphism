@@ -30,7 +30,7 @@
                     "descr": "1920w"
                 }
             },
-            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "sizes": "(min-width: 1200px) 20vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
             "alt": "Mercury"
         },
         "text": "The smallest and fastest planet, it zips around the Sun in only 88 Earth days."
@@ -66,7 +66,7 @@
                     "descr": "1920w"
                 }
             },
-            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "sizes": "(min-width: 1200px) 20vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
             "alt": "Venus"
         },
         "text": "Venus’ thick atmosphere makes it the hottest planet in our solar system."
@@ -102,7 +102,7 @@
                     "descr": "1920w"
                 }
             },
-            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "sizes": "(min-width: 1200px) 20vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
             "alt": "Earth"
         },
         "text": "The only planet in our solar system with liquid water on the surface."
@@ -138,7 +138,7 @@
                     "descr": "1920w"
                 }
             },
-            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "sizes": "(min-width: 1200px) 20vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
             "alt": "Mars"
         },
         "text": "Mars was a wet and warm planet billions of years ago."
@@ -174,7 +174,7 @@
                     "descr": "1920w"
                 }
             },
-            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "sizes": "(min-width: 1200px) 20vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
             "alt": "Jupiter"
         },
         "text": "The largest planet, its dark red spot is a storm larger than Earth."
@@ -210,7 +210,7 @@
                     "descr": "1920w"
                 }
             },
-            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "sizes": "(min-width: 1200px) 20vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
             "alt": "Saturn"
         },
         "text": "Saturn has the brightest, most massive and most complex ring system of any planet."
@@ -246,7 +246,7 @@
                     "descr": "1920w"
                 }
             },
-            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "sizes": "(min-width: 1200px) 20vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
             "alt": "Uranus"
         },
         "text": "Uranus is tipped on its axis by almost 90-degrees."
@@ -282,7 +282,7 @@
                     "descr": "1920w"
                 }
             },
-            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "sizes": "(min-width: 1200px) 20vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
             "alt": "Neptune"
         },
         "text": "Neptune was the first planet discovered through mathematical calculations, rather than observation."
@@ -318,7 +318,7 @@
                     "descr": "1920w"
                 }
             },
-            "sizes": "(min-width: 1200px) 19.6475vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
+            "sizes": "(min-width: 1200px) 20vw, (min-width: 600px) 44.6666666667vw, 91.1111111111vw",
             "alt": "Planet Name"
         },
         "text": "The most recent definition of a planet was adopted by the International Astronomical Union in 2006."
