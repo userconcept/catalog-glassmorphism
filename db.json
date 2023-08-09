@@ -4,29 +4,29 @@
         "picture": {
             "source": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_001_640.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_001_640.webp",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_001_1280.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_001_1280.webp",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_001_1920.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_001_1920.webp",
                     "descr": "1920w"
                 }
             },
             "img": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_001_640.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_001_640.jpg",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_001_1280.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_001_1280.jpg",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_001_1920.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_001_1920.jpg",
                     "descr": "1920w"
                 }
             },
@@ -40,29 +40,29 @@
         "picture": {
             "source": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_002_640.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_002_640.webp",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_002_1280.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_002_1280.webp",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_002_1920.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_002_1920.webp",
                     "descr": "1920w"
                 }
             },
             "img": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_002_640.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_002_640.jpg",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_002_1280.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_002_1280.jpg",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_002_1920.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_002_1920.jpg",
                     "descr": "1920w"
                 }
             },
@@ -76,29 +76,29 @@
         "picture": {
             "source": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_003_640.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_003_640.webp",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_003_1280.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_003_1280.webp",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_003_1920.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_003_1920.webp",
                     "descr": "1920w"
                 }
             },
             "img": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_003_640.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_003_640.jpg",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_003_1280.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_003_1280.jpg",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_003_1920.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_003_1920.jpg",
                     "descr": "1920w"
                 }
             },
@@ -112,29 +112,29 @@
         "picture": {
             "source": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_004_640.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_004_640.webp",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_004_1280.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_004_1280.webp",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_004_1920.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_004_1920.webp",
                     "descr": "1920w"
                 }
             },
             "img": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_004_640.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_004_640.jpg",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_004_1280.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_004_1280.jpg",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_004_1920.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_004_1920.jpg",
                     "descr": "1920w"
                 }
             },
@@ -148,29 +148,29 @@
         "picture": {
             "source": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_005_640.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_005_640.webp",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_005_1280.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_005_1280.webp",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_005_1920.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_005_1920.webp",
                     "descr": "1920w"
                 }
             },
             "img": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_005_640.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_005_640.jpg",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_005_1280.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_005_1280.jpg",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_005_1920.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_005_1920.jpg",
                     "descr": "1920w"
                 }
             },
@@ -184,29 +184,29 @@
         "picture": {
             "source": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_006_640.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_006_640.webp",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_006_1280.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_006_1280.webp",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_006_1920.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_006_1920.webp",
                     "descr": "1920w"
                 }
             },
             "img": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_006_640.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_006_640.jpg",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_006_1280.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_006_1280.jpg",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_006_1920.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_006_1920.jpg",
                     "descr": "1920w"
                 }
             },
@@ -220,29 +220,29 @@
         "picture": {
             "source": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_007_640.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_007_640.webp",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_007_1280.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_007_1280.webp",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_007_1920.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_007_1920.webp",
                     "descr": "1920w"
                 }
             },
             "img": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_007_640.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_007_640.jpg",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_007_1280.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_007_1280.jpg",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_007_1920.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_007_1920.jpg",
                     "descr": "1920w"
                 }
             },
@@ -256,29 +256,29 @@
         "picture": {
             "source": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_008_640.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_008_640.webp",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_008_1280.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_008_1280.webp",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_008_1920.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_008_1920.webp",
                     "descr": "1920w"
                 }
             },
             "img": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_008_640.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_008_640.jpg",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_008_1280.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_008_1280.jpg",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_008_1920.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_008_1920.jpg",
                     "descr": "1920w"
                 }
             },
@@ -292,29 +292,29 @@
         "picture": {
             "source": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_009_640.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_009_640.webp",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_009_1280.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_009_1280.webp",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_009_1920.webp",
+                    "src": "img/content/catalog-item/catalog-item__img_009_1920.webp",
                     "descr": "1920w"
                 }
             },
             "img": {
                 "small": {
-                    "src": "img/content/services-item/services-item__img_009_640.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_009_640.jpg",
                     "descr": "640w"
                 },
                 "middle": {
-                    "src": "img/content/services-item/services-item__img_009_1280.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_009_1280.jpg",
                     "descr": "1280w"
                 },
                 "large": {
-                    "src": "img/content/services-item/services-item__img_009_1920.jpg",
+                    "src": "img/content/catalog-item/catalog-item__img_009_1920.jpg",
                     "descr": "1920w"
                 }
             },

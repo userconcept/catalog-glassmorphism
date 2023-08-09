@@ -93,7 +93,7 @@
         <!-- HEADER - Start -->
         <header class="header">
             <div class="shadow header__shadow"></div>
-            <a class="logo header__logo" href="https://userconcept.ru" rel="noopener noreferrer me" target="_blank">
+            <a class="logo header__logo" href="/">
                 <svg class="icon icon_logo logo__icon" width="24" height="24">
                     <use xlink:href="#icon_logo"></use>
                 </svg>
@@ -143,20 +143,20 @@
         <!-- HEADER - End -->
         <!-- MAIN - Start -->
         <main class="main">
-            <!-- SERVICES - Start -->
-            <section class="services">
-                <h1 class="title title_middle services__title">Planets</h1>
-                <button class="button-nav services__button-nav">
+            <!-- CATALOG - Start -->
+            <section class="catalog">
+                <h1 class="title title_middle catalog__title">Planets</h1>
+                <button class="button-nav catalog__button-nav">
                     <span class="button-nav__hamburger">Planets filter open</span>
                 </button>
-                <aside class="sidebar services__sidebar">
+                <aside class="sidebar catalog__sidebar">
                     <div class="sidebar__body">
                         <h2 class="title title_middle sidebar__title">Filter</h2>
                     </div>
                 </aside>
-                <ul class="services-list services__services-list"></ul>
+                <ul class="catalog-list catalog__catalog-list"></ul>
             </section>
-            <!-- SERVICES - End -->
+            <!-- CATALOG - End -->
         </main>
         <!-- MAIN - End -->
         <div class="empty"></div>
@@ -165,7 +165,7 @@
     <!-- FOOTER - Start -->
     <footer class="footer">
         <div class="shadow footer__shadow"></div>
-        <a class="logo footer__logo" href="https://userconcept.ru" rel="noopener noreferrer me" target="_blank">
+        <a class="logo footer__logo" href="/">
             <svg class="icon icon_logo logo__icon" width="24" height="24">
                 <use xlink:href="#icon_logo"></use>
             </svg>
@@ -196,7 +196,7 @@
     <!-- FOOTER - End -->
     <!-- MODAL WRAPPER - Start -->
     <div class="modal-wrapper">
-        <div class="modal modal-wrapper__modal" id="m-service">
+        <div class="modal modal-wrapper__modal" id="m-catalog-item">
             <button class="button-close modal__button-close">Modal close</button>
             <div class="modal-right modal__modal-right">
                 <h2 class="title title_middle modal-right__title">Mercury</h2>
@@ -220,12 +220,12 @@
     </div>
     <!-- MODAL WRAPPER - End -->
     <!-- TEMPLATE - Start -->
-    <template id="t-services-item">
-        <li class="services-item services-list__services-item">
-            <a class="services-item__link" href="#"></a>
-            <div class="services-item__inner">
-                <h2 class="title title_small services-item__title"></h2>
-                <p class="text services-item__text"></p>
+    <template id="t-catalog-item">
+        <li class="catalog-item catalog-list__catalog-item">
+            <a class="catalog-item__link" href="#"></a>
+            <div class="catalog-item__inner">
+                <h2 class="title title_small catalog-item__title"></h2>
+                <p class="text catalog-item__text"></p>
             </div>
         </li>
     </template>
